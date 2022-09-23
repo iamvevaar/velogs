@@ -1,0 +1,55 @@
+.navbar{
+    font-family: 'Varela Round', sans-serif;
+    width: 100%;
+    background-color: antiquewhite;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+}
+
+.topLeft , .topRight {
+    /* background-color: tomato; */
+    flex:3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topImg{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.topIcons{
+    font-size: 20px;
+    margin-right: 10px;
+    height: 24px;
+}
+
+.topCenter{
+    flex:6;
+}
+
+.topList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItems{
+    margin-right: 20px;
+    font-weight:400;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.searchIcon{
+    font-size: 18px;
+    margin-left: 15px;
+    cursor: pointer;
+}

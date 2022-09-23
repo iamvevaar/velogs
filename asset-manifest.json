@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/velogs/static/css/main.d7095ce4.css",
+    "main.js": "/velogs/static/js/main.a237d3f1.js",
+    "static/media/Passport.png": "/velogs/static/media/Passport.e9a5a49668c1b204e4a7.png",
+    "index.html": "/velogs/index.html",
+    "main.d7095ce4.css.map": "/velogs/static/css/main.d7095ce4.css.map",
+    "main.a237d3f1.js.map": "/velogs/static/js/main.a237d3f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7095ce4.css",
+    "static/js/main.a237d3f1.js"
+  ]
+}
